@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c73131a-d842-45d2-8f18-ec34b532813d" name="Default Changelist" comment="" />
+    <list default="true" id="9c73131a-d842-45d2-8f18-ec34b532813d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bootcamp/week1/OOPKeThua/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bootcamp/week1/OOPKeThua/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bootcamp/week1/OOPKeThua/InstanceofDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bootcamp/week1/OOPKeThua/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bootcamp/week1/OOPKeThua/NhanVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/OOP/XayDungLopFan/LopFan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/OOP/XayDungLopFan/LopFan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/TamGiac/TamGiac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/TamGiac/TamGiac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/TamGiac/checkNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/TamGiac/checkNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/TamGiac/numberHonKhong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/TryCatch/WrapperExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Bootcamp/week1/TryCatch/WrapperExceptionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bootcamp/week1/TamGiac/TamGiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp/week1/TamGiac/TamGiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bootcamp/week1/TamGiac/checkNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp/week1/TamGiac/checkNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bootcamp/week1/TamGiac/numberHonKhong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp/week1/TamGiac/ngoaile1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bootcamp/week1/TryCatch/WrapperExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp/week1/TryCatch/WrapperExceptionDemo.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +36,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RrLVoR3XXxVPMUMjwmJDZcqS7y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -43,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LopFan">
+  <component name="RunManager" selected="Application.InstanceofDemo">
     <configuration name="FirtsJava" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.laptrinh.firstjava.FirtsJava" />
       <module name="Java" />
@@ -57,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JLineTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bootcamp.week1.OOP.JLineTest" />
+    <configuration name="InstanceofDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bootcamp.week1.OOPKeThua.InstanceofDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bootcamp.week1.OOP.*" />
+          <option name="PATTERN" value="Bootcamp.week1.OOPKeThua.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bootcamp.week1.OOP.MyClass" />
+    <configuration name="ThemPhanTuVaoMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bootcamp.week1.Array.ThemPhanTuVaoMang" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bootcamp.week1.OOP.*" />
+          <option name="PATTERN" value="Bootcamp.week1.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stopwatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bootcamp.week1.OOP.StopWatch.Stopwatch" />
+    <configuration name="WrapperExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bootcamp.week1.TryCatch.WrapperExceptionDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bootcamp.week1.OOP.StopWatch.*" />
+          <option name="PATTERN" value="Bootcamp.week1.TryCatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,18 +147,18 @@
     <list>
       <item itemvalue="Application.FirtsJava" />
       <item itemvalue="Application.demoFan" />
-      <item itemvalue="Application.Stopwatch" />
-      <item itemvalue="Application.MyClass" />
-      <item itemvalue="Application.JLineTest" />
       <item itemvalue="Application.LopFan" />
+      <item itemvalue="Application.ThemPhanTuVaoMang" />
+      <item itemvalue="Application.WrapperExceptionDemo" />
+      <item itemvalue="Application.InstanceofDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstanceofDemo" />
+        <item itemvalue="Application.WrapperExceptionDemo" />
+        <item itemvalue="Application.ThemPhanTuVaoMang" />
         <item itemvalue="Application.LopFan" />
         <item itemvalue="Application.demoFan" />
-        <item itemvalue="Application.Stopwatch" />
-        <item itemvalue="Application.JLineTest" />
-        <item itemvalue="Application.MyClass" />
       </list>
     </recent_temporary>
   </component>
@@ -163,11 +185,25 @@
       <workItem from="1570964200370" duration="14305000" />
       <workItem from="1571015761449" duration="4783000" />
       <workItem from="1571034711671" duration="12343000" />
-      <workItem from="1571102697235" duration="4589000" />
+      <workItem from="1571102697235" duration="8651000" />
+      <workItem from="1571188894917" duration="6486000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -15,7 +15,7 @@ public class TamGiac {
         c = input.nextInt();
         try {
             checkNumber.check(a,b,c);
-        } catch (numberHonKhong e) {
+        } catch (ngoaile1 e) {
             System.out.println(e.getMessage());
         }catch (ngoaile2 e) {
             System.out.println(e.getMessage());
